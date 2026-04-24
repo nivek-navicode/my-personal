@@ -96,7 +96,7 @@ function Home () {
             className="bg-gray-900 text-white dark:bg-white dark:text-gray-900 px-8 py-4 rounded-xl font-bold dark:hover:bg-blue-200 hover:bg-gray-800 transition shadow- shadow-gray-200">
             View Projects</motion.button>
             <motion.a 
-            href="/Nivethitha_CV.pdf"
+            href="/my-personal/Nivethitha_CV.pdf"
             download="Nivethitha_CV.pdf"
             whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }} className="dark:border-gray-600 dark:text-gray-300 border-2 border-gray-200 text-gray-700 px-8 py-4 rounded-xl font-bold hover:border-blue-600 hover:text-blue-600 transition">Download CV</motion.a>
           </motion.div>
